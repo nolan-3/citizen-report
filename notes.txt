@@ -1,4 +1,0 @@
-Add any questions or comments in this file
-example: what is python? (Nolan)
-
-testing if commits work
